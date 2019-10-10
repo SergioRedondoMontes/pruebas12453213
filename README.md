@@ -2,6 +2,6 @@
 
 ## titulo 2
 
-- [  ] uno
-- [  ] dos
+- [ ] uno
+- [ ] dos
 
